@@ -255,7 +255,21 @@
 		color: #fff;
 		font-weight: 700;
 		line-height: 1em;
+		margin: 0 0em 1em 0;
+	}
+
+	ul {
+		color: #fff;
+		font-weight: 700;
 		margin: 0 0 1em 0;
+		font-size: 12pt;
+		line-height: 1.75em;
+	}
+
+	.h3 {
+		width: 60%;
+   	max-width: 60%;
+   	display: inline-block;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -837,7 +851,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		background-color: #7ACA4C;
+		background-color: #FB7E65;
 		border-radius: 6px;
 		border: 0;
 		color: #ffffff !important;
@@ -858,7 +872,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #3a721a;
+			background-color: #E86A51;
 		}
 
 		input[type="submit"]:active,
@@ -866,7 +880,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #199e83;
+			background-color: #FB7E65;
 		}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
