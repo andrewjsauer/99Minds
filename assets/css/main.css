@@ -262,14 +262,8 @@
 		color: #fff;
 		font-weight: 700;
 		margin: 0 0 1em 0;
-		font-size: 12pt;
+		font-size: 14pt;
 		line-height: 1.75em;
-	}
-
-	.h3 {
-		width: 60%;
-   	max-width: 60%;
-   	display: inline-block;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -954,7 +948,6 @@
 	}
 
 		#signup-form input[type="text"],
-		#signup-form input[type="password"],
 		#signup-form input[type="email"] {
 			width: 18em;
 		}
@@ -976,8 +969,7 @@
 				flex-direction: column;
 			}
 
-				#signup-form input[type="type"],
-				#signup-form input[type="password"],
+				#signup-form input[type="text"],
 				#signup-form input[type="email"] {
 					width: 100%;
 				}
